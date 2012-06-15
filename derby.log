@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Fri Apr 20 15:31:52 BRT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.1.2 - (1095077): instance a816c00e-0136-d106-4bc3-00000eb2d4a8 
+on database directory C:\Documents and Settings\jonathan.sansalone\Meus documentos\Java e Oracle\Workspace\FlexEditor\editordb  with class loader sun.misc.Launcher$AppClassLoader@2a340e 
+Loaded from file:/C:/Arquivos%20de%20programas/Eclipse%20EE%20Indigo/plugins/org.apache.derby.core_10.8.1/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0-b147
+user.dir=C:\Documents and Settings\jonathan.sansalone\Meus documentos\Java e Oracle\Workspace\FlexEditor
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
