@@ -198,6 +198,9 @@ public class EditorConfig extends JFrame implements ActionListener {
 
 								LIST_PROPERTY_FILES: for (final File pFile : propertyFiles) {
 
+									if(!pFile.isFile() || !pFile.getName().endsWith("properties"))
+										continue;
+									
 									JMenuItem item = new JMenuItem(
 											pFile.getName()
 													.substring(

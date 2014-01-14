@@ -1,10 +1,10 @@
 ----------------------------------------------------------------
-Fri Jun 15 11:04:50 BRT 2012:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance a816c00e-0137-f075-f0ca-000001f30000 
-on database directory C:\Java\SE Workspace\FlexEditor\editordb  with class loader sun.misc.Launcher$AppClassLoader@1ee7ccd7 
-Loaded from file:/C:/Program%20Files/Eclipse%20EE%20Indigo/plugins/org.apache.derby.core_10.8.2/derby.jar
+Tue Jan 14 09:40:53 BRST 2014:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance a816c00e-0143-908d-dc4a-000001f644c0 
+on database directory D:\Java\SE Workspace\FlexEditor\editordb  with class loader sun.misc.Launcher$AppClassLoader@663c0737 
+Loaded from file:/D:/Java/Eclipse64/plugins/org.apache.derby.core_10.8.2/derby.jar
 java.vendor=Oracle Corporation
-java.runtime.version=1.7.0_04-b22
-user.dir=C:\Java\SE Workspace\FlexEditor
+java.runtime.version=1.7.0_25-b17
+user.dir=D:\Java\SE Workspace\FlexEditor
 derby.system.home=null
 Database Class Loader started - derby.database.classpath=''
